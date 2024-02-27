@@ -29,4 +29,4 @@ A equipe do projeto é obrigada a manter a confidencialidade em relação ao rel
 
 Espera-se que qualquer pessoa solicitada a interromper um comportamento inaceitável cumpra imediatamente. Se um indivíduo se envolver em comportamento inaceitável, o representante poderá tomar qualquer ação que considere apropriada, até e incluindo um banimento permanente da nossa comunidade sem aviso prévio.
 
-Este Código de Conduta segue o modelo estabelecido pelo TODO Group e também utiliza partes do Contributor Covenant , versão 1.4, disponível em https://www.contributor-covenant.org/version/1/4/code-of-conduct. HTML
+Este Código de Conduta segue o modelo estabelecido pelo TODO Group e também utiliza partes do Contributor Covenant , versão 1.4, disponível <a href="https://www.contributor-covenant.org/version/1/4/code-of-conduct.html">Aqui</a>
