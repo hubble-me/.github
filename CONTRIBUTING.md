@@ -16,7 +16,7 @@ Tente usar palavras e frases simples. Não zombe de falantes não nativos de ing
 Tente encorajar os recém-chegados a expressarem suas opiniões e deixe-os confortáveis ​​o suficiente para fazê-lo.
 
 <h2>Código de Conduta</h2>
-Esperamos que os participantes do projeto cumpram nosso <a href="https://github.com/hubble-me/.github/blob/main/CODE_OF_CONDUCT.md">Código de Conduta</a>]. Você pode conferir o texto completo para entender o tipo de conduta que esperamos e quais ações serão ou não toleradas. Ao participar deste projeto você concorda em cumprir seus termos.
+Esperamos que os participantes do projeto cumpram nosso <a href="https://github.com/hubble-me/.github/blob/main/CODE_OF_CONDUCT.md">Código de Conduta</a>. Você pode conferir o texto completo para entender o tipo de conduta que esperamos e quais ações serão ou não toleradas. Ao participar deste projeto você concorda em cumprir seus termos.
 
 <h2>Como posso ajudar?</h2>
 Aqui estão algumas maneiras pelas quais você pode ajudar, juntamente com algumas diretrizes.
@@ -58,3 +58,5 @@ Aqui estão algumas coisas que você pode fazer para aumentar a probabilidade de
 Escreva testes (se aplicável).
 Escreva uma boa mensagem de commit .
 Mantenha sua mudança o mais focada possível. Se houver várias alterações que você gostaria de fazer e que não dependem umas das outras, considere enviá-las como solicitações pull separadas.
+
+<h2>Para mais informaçoes acesse nosso site <a href="https://inneo.org">hubble</a></h2>
